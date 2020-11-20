@@ -14,7 +14,7 @@ ul {
     top: 0;
     width: 100%;
 }
-li a {
+#navigation li a {
     width: 30px;
     background-color: black;
     padding: 0px 5px;
@@ -51,6 +51,7 @@ h2{
     background-color: red;
     text-align: center;
     float: center;
+    padding: 20px;
 }
 strong{
     color: #000;
