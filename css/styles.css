@@ -9,7 +9,7 @@ ul {
     list-style-type: none;
     margin: 20;
     padding: 20;
-    background-color: black;
+    background-color: navajowhite;
     overflow: hidden;
     top: 0;
     width: 100%;
@@ -25,6 +25,7 @@ ul {
 li {
     display: inline;
     float: center;
+    flex-direction: column;
 }
 li a:hover{
     background-color: white;
